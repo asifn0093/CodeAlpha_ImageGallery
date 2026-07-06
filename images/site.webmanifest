@@ -1,0 +1,22 @@
+{
+  "name": "Contact Sheet — Image Gallery",
+  "short_name": "Contact Sheet",
+  "description": "A responsive image gallery with category filters and a lightbox viewer, by Asif Nawaz.",
+  "start_url": "/CodeAlpha_ImageGallery/index.html",
+  "scope": "/CodeAlpha_ImageGallery/",
+  "display": "standalone",
+  "background_color": "#141210",
+  "theme_color": "#d9a53c",
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
